@@ -1,4 +1,4 @@
-# [스터디원 모집중] Paper Review Club Season1 - Optical Character Recognition
+# [스터디원 모집중] Paper Review Club Season1 - OCR
 
 - [스터디원 모집] [신청 Google form (2022/12/14까지)](모집 구글 폼 링크 삽입 예정)
 - 안녕하세요. 논문리뷰 클럽 운영진 조성국입니다.
