@@ -15,22 +15,22 @@
 #### Text Detection
 | | paper title | 논문 발표 | YouTube
 -- | -- | -- | --
-1 주차 | [CRAFT](https://arxiv.org/abs/1904.01941) | | 
-3 주차 | [TextFuseNet](https://www.ijcai.org/Proceedings/2020/0072.pdf) | | 
+1 주차 | [CRAFT: Character Region Awareness for Text Detection](https://arxiv.org/abs/1904.01941) | | 
+3 주차 | [TextFuseNet: Scene Text Detection with Richer Fused Features](https://www.ijcai.org/Proceedings/2020/0072.pdf) | | 
 
 #### Text Recognition
 | | paper title | 논문 발표 | YouTube
 -- | -- | -- | --
-2 주차 | [STR Benchmarks](https://arxiv.org/abs/1904.01906) | | 
-4 주차 | [TrOCR](https://arxiv.org/pdf/2109.10282.pdf) | | 
-5 주차 | [E2E-MLT](https://arxiv.org/ftp/arxiv/papers/1801/1801.09919.pdf) | | 
+2 주차 | [STR Benchmarks: What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis](https://arxiv.org/abs/1904.01906) | | 
+4 주차 | [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/pdf/2109.10282.pdf) | | 
+5 주차 | [E2E-MLT: an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/ftp/arxiv/papers/1801/1801.09919.pdf) | | 
 
 #### Document Understanding
 | | paper title | 논문 발표 | YouTube
 -- | -- | -- | --
-6 주차 | [LayoutLM Family](https://arxiv.org/abs/1912.13318) | [조성국](https://github.com/seongkukcho) | 
-7 주차 | [Docformer](https://arxiv.org/abs/2106.11539) | | 
-8 주차 | [BROS](https://arxiv.org/abs/2108.04539) | | 
-9 주차 | [Donut](https://arxiv.org/pdf/2111.15664v1.pdf) | | 
-10 주차 | [SPADE](https://arxiv.org/abs/2005.00642) | | 
-11 주차 | [LayoutXLM vs. GNN](https://arxiv.org/pdf/2206.10304v1.pdf) | | 
+6 주차 | [LayoutLM + LayoutLMv2 + XYLayoutLM](https://arxiv.org/abs/1912.13318) | [조성국](https://github.com/seongkukcho) | 
+7 주차 | [Docformer: DocFormer: End-to-End Transformer for Document Understanding](https://arxiv.org/abs/2106.11539) | | 
+8 주차 | [BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539) | | 
+9 주차 | [Donut: DocumentUnderstandingTransformerwithoutOCR](https://arxiv.org/pdf/2111.15664v1.pdf) | | 
+10 주차 | [SPADE: Spatial Dependency Parsing for Semi-Structured Document Information Extraction](https://arxiv.org/abs/2005.00642) | | 
+11 주차 | [LayoutXLM vs. GNN: An Empirical Evaluation of Relation Extraction for Documents](https://arxiv.org/pdf/2206.10304v1.pdf) | | 
