@@ -10,7 +10,7 @@
 - 12/31 ~ 03/25 (OT 포함 12주, 설 연휴 제외)
 
 ## 발표 논문 및 순서
-> (https://docs.google.com/spreadsheets/d/1Rb3Fce9D8yiEs3K1M2VSRGrhXDf7ciGt/edit?usp=sharing&ouid=100379087872675645103&rtpof=true&sd=true)
+> (https://docs.google.com/spreadsheets/d/11XvcjcwIN4tGlZYWWw8gCYvQntpcwkpw/edit?usp=sharing&ouid=100379087872675645103&rtpof=true&sd=true)
 
 #### Text Detection
 | | paper title | 논문 발표 | YouTube
